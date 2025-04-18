@@ -1,1 +1,1 @@
-# Unity-6-Game-Programming-Essence-from-Retro-Study
+레트로의 유니티 6 게임 프로그래밍 에센스 책을 기반으로 공부한 레포입니다.
