@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
         {
             if(Input.GetKeyDown(KeyCode.R))
             {
-                SceneManager.LoadScene("SampleScene");
+                SceneManager.LoadScene("SampleScene2");
             }
         }
     }
